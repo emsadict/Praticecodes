@@ -1,0 +1,253 @@
+17x4+3
+SELECT * FROM `spgs_acc` WHERE `username`='SPGS19921' OR `username`='SPGS15972' OR `username`='SPGS43777' OR `username`='SPGS15296' OR `username`='SPGS35132' OR `username`='SPGS14202' OR `username`='SPGS13927' OR `username`='SPGS14929' OR `username`='SPGS10832' OR `username`='SPGS14245' OR `username`='SPGS20809' OR `username`='SPGS18031' OR `username`='SPGS56949' OR `username`='SPGS14727' OR `username`='SPGS79590' OR `username`='SPGS92204' OR `username`='SPGS11099' OR `username`='SPGS49188' OR `username`='SPGS17401' OR `username`='SPGS76024' OR `username`='SPGS20204' OR `username`='SPGS11655' OR `username`='SPGS71430' OR `username`='SPGS10052' OR `username`='SPGS49293' OR `username`='SPGS86917' OR `username`='SPGS13107' OR `username`='SPGS62424' OR `username`='SPGS89336' OR `username`='SPGS42707' OR `username`='SPGS20166' OR `username`='SPGS18516' OR `username`='SPGS18828' OR `username`='SPGS36226' OR `username`='SPGS98127' OR `username`='SPGS47181' OR `username`='SPGS11433' OR `username`='SPGS20166' OR `username`='SPGS13959' OR `username`='SPGS66659' OR `username`='SPGS14197' OR `username`='SPGS44726' OR `username`='SPGS21035' OR `username`='SPGS14018' OR `username`='SPGS10032' OR `username`='SPGS17850' OR `username`='SPGS11604' OR `username`='SPGS93068' OR `username`='SPGS68778' OR `username`='SPGS10166' OR `username`='SPGS19739' OR `username`='SPGS13954' OR `username`='SPGS82084' OR `username`='SPGS22513' OR `username`='SPGS36911' OR `username`='SPGS10032' OR `username`='SPGS95547' OR `username`='SPGS21710' OR `username`='SPGS41214' OR `username`='SPGS15587' OR `username`='SPGS89609' OR `username`='SPGS62815' OR `username`='SPGS62246' OR `username`='SPGS14701' OR `username`='SPGS89336' OR `username`='SPGS54187' OR `username`='SPGS18524' OR `username`='SPGS12630' OR `username`='SPGS14701' OR `username`='SPGS91809' OR `username`='SPGS16392' OR 
+
+
+seclecting //
+SELECT * FROM `spgs_basicinfo` WHERE `regno`='SPGS19921' OR `regno`='SPGS15972' OR `regno`='SPGS43777' OR `regno`='SPGS15296' OR `regno`='SPGS35132' OR `regno`='SPGS14202' OR `regno`='SPGS13927' OR `regno`='SPGS14929' OR `regno`='SPGS10832' OR `regno`='SPGS14245' OR `regno`='SPGS20809' OR `regno`='SPGS18031' OR `regno`='SPGS56949' OR `regno`='SPGS14727' OR `regno`='SPGS79590' OR `regno`='SPGS92204' OR `regno`='SPGS11099' OR `regno`='SPGS49188' OR `regno`='SPGS17401' OR `regno`='SPGS76024' OR `regno`='SPGS20204' OR `regno`='SPGS11655' OR `regno`='SPGS71430' OR `regno`='SPGS10052' OR `regno`='SPGS49293' OR `regno`='SPGS86917' OR `regno`='SPGS13107' OR `regno`='SPGS62424' OR `regno`='SPGS89336' OR `regno`='SPGS42707' OR `regno`='SPGS20166' OR `regno`='SPGS18516' OR `regno`='SPGS18828' OR `regno`='SPGS36226' OR `regno`='SPGS98127' OR `regno`='SPGS47181' OR `regno`='SPGS11433' OR `regno`='SPGS20166' OR `regno`='SPGS13959' OR `regno`='SPGS66659' OR `regno`='SPGS14197' OR `regno`='SPGS44726' OR `regno`='SPGS21035' OR `regno`='SPGS14018' OR `regno`='SPGS10032' OR `regno`='SPGS17850' OR `regno`='SPGS11604' OR `regno`='SPGS93068' OR `regno`='SPGS68778' OR `regno`='SPGS10166' OR `regno`='SPGS19739' OR `regno`='SPGS13954' OR `regno`='SPGS82084' OR `regno`='SPGS22513' OR `regno`='SPGS36911' OR `regno`='SPGS10032' OR `regno`='SPGS95547' OR `regno`='SPGS21710' OR `regno`='SPGS41214' OR `regno`='SPGS15587' OR `regno`='SPGS89609' OR `regno`='SPGS89609' OR `regno`='SPGS62815' OR `regno`='SPGS62246' OR `regno`='SPGS16392' OR `regno`='SPGS14701' OR `regno`='SPGS89336' OR `regno`='SPGS54187' OR `regno`='SPGS18524' OR `regno`='SPGS12630' OR `regno`='SPGS14701' OR `regno`='SPGS91809' 
+
+health law
+SPGS19921
+SPGS15972
+SPGS43777
+SPGS15296
+SPGS35132
+SPGS14202
+SPGS13927
+SPGS14929
+SPGS10832
+SPGS14245
+SPGS20809
+SPGS18031
+SPGS56949
+SPGS14727
+SPGS79590
+SPGS92204
+SPGS11099
+SPGS49188
+
+public health
+//pgd//
+SPGS17401
+SPGS76024
+SPGS20204
+SPGS11655
+SPGS71430
+SPGS10052
+//mscph//
+SPGS49293
+SPGS86917
+SPGS13107
+SPGS62424
+SPGS89336
+SPGS42707
+SPGS20166
+SPGS18516
+SPGS18828
+SPGS36226
+SPGS98127
+SPGS47181
+SPGS11433
+SPGS20166
+SPGS13959
+SPGS66659
+SPGS14197
+SPGS44726
+SPGS21035
+SPGS14018
+SPGS10032
+SPGS17850
+
+//MPH//
+SPGS11604
+SPGS93068
+SPGS68778
+SPGS10166
+SPGS19739
+SPGS13954
+SPGS82084
+SPGS22513
+SPGS36911
+SPGS10032
+SPGS95547
+SPGS21710
+SPGS41214
+SPGS15587
+SPGS89609
+SPGS62815
+SPGS62246
+//PhD//
+SPGS14701
+SPGS89336
+SPGS54187
+SPGS18524
+SPGS12630
+SPGS14701
+SPGS91809
+
+//MPhil_PhD//
+SPGS72197
+
+//MPHIL//
+SPGS16392
+
+//2021_2022 Ph.D//
+SPGS18171 - ABIODUN OYENEYIN
+SPGS78427 - TAYELOLU MARY ODESANMI
+SPGS21315 - ABASS YAKUBU
+SPGS26670 - OMOTAYO SALAU
+SPGS14077 - BOAZ AHULU
+SPGS87260 - OKYERE KWAKU
+
+
+
+SELECT `regno`,`surname`,`onames`,`sex`,`faculty`,`dept`,`programme` FROM `admitted_2022` WHERE `regno`='SPGS19921' OR `regno`='SPGS15972' OR `regno`='SPGS43777' OR
+ `regno`='SPGS15296' OR `regno`='SPGS35132' OR `regno`='SPGS14202'
+ OR `regno`='SPGS13927' OR `regno`='SPGS14929' OR `regno`='SPGS10832' OR `regno`='SPGS14245' OR `regno`='SPGS20809' OR `regno`='SPGS18031' OR `regno`='SPGS56949'
+ OR `regno`='SPGS14727' OR `regno`='SPGS79590' OR `regno`='SPGS92204' OR `regno`='SPGS11099' OR `regno`='SPGS49188' OR `regno`='SPGS17401' OR `regno`='SPGS76024' OR 
+`regno`='SPGS20204' OR `regno`='SPGS11655' OR `regno`='SPGS71430' OR `regno`='SPGS10052'
+ OR `regno`='SPGS49293' OR `regno`='SPGS86917' OR `regno`='SPGS13107' OR `regno`='SPGS62424' OR `regno`='SPGS89336' OR `regno`='SPGS42707' OR `regno`='SPGS20166' OR 
+`regno`='SPGS18516' OR `regno`='SPGS18828' OR `regno`='SPGS36226'
+ OR `regno`='SPGS98127' OR `regno`='SPGS47181' OR `regno`='SPGS11433' OR `regno`='SPGS20166' OR `regno`='SPGS13959' OR `regno`='SPGS66659' OR `regno`='SPGS14197' OR 
+`regno`='SPGS44726' OR `regno`='SPGS21035' OR `regno`='SPGS14018' OR `regno`='SPGS10032' OR `regno`='SPGS17850' OR `regno`='SPGS11604' OR `regno`='SPGS93068' OR 
+`regno`='SPGS68778' OR `regno`='SPGS10166' OR `regno`='SPGS19739' OR `regno`='SPGS13954' OR `regno`='SPGS82084' OR `regno`='SPGS22513' OR `regno`='SPGS36911' OR 
+`regno`='SPGS10032' OR `regno`='SPGS95547' OR `regno`='SPGS21710' OR `regno`='SPGS41214' OR `regno`='SPGS15587' OR `regno`='SPGS89609' OR `regno`='SPGS89609' OR 
+`regno`='SPGS62815' OR `regno`='SPGS62246' OR `regno`='SPGS16392' OR `regno`='SPGS14701' OR `regno`='SPGS89336' OR `regno`='SPGS54187' OR `regno`='SPGS18524' OR 
+`regno`='SPGS12630' OR `regno`='SPGS14701' OR `regno`='SPGS91809' OR `regno`='SPGS12630'OR `regno`='SPGS18171'OR `regno`='SPGS78427'OR `regno`='SPGS21315'OR `regno`='SPGS26670'
+OR `regno`='SPGS14077'OR `regno`='SPGS87260' or `regno`='SPGS62815' or `regno`='SPGS62246'
+
+
+
+
+// SELECTING WHATS IN A TABLE THAT IS NOT IN ANOTHER TABLE
+
+SELECT * FROM
+ `spgs_basicinfo` WHERE `regno`
+ NOT IN (SELECT `regno` FROM `admitted_2022_2023`) 
+
+
+// OR 
+SELECT name 
+FROM table2 
+WHERE NOT EXISTS 
+    (SELECT * 
+     FROM table1 
+     WHERE table1.name = table2.name)
+
+
+//JEGEDE AKINBIYI 
+SCHOOL FEE TRANSACTION ID SPGS13954
+
+SSF1797239439
+
+
+//OLUWASANMI TRANSACTION ID
+SSF0844983180  TO BE REPAID 
+
+
+//WASIU ADEBIMPE
+SSF0892760771
+
+// FIDELIA
+SSF1388311047
+
+//kolade olubo
+SSF1884613876
+SSF0326501366
+SSF1004982619
+
+//LATEEFAT
+SSF0009387459
+
+//ADEWOYIN
+SSF0564813433
+
+//ESAN-TITUS
+SSF0608969766
+
+//ILEMOBAYO
+SSF0364576187
+
+//selecting 
+SELECT * FROM
+ `admitted_2022_2023` WHERE `regno`
+ NOT IN (SELECT `regno` FROM `Screened_Candidates_2022`)
+
+
+
+SELECT * FROM `course_reg` WHERE `faculty`='Sciences' AND `dept` LIKE 'Biological Sciences%' AND `semester`='FIRST'
+
+
+
+//counting registration by programmes
+
+SELECT `dept`,`programme`, COUNT(`programme`) FROM `spgs_basicinfo` GROUP by `programme`,`dept`;
+
+
+//Fetching
+SELECT * FROM `course_regp` WHERE `faculty`='Sciences' AND `dept` LIKE 'Chemistry%' AND `level`='800' and `semester` LIKE 'SECOND%'
+
+
+//
+SELECT * FROM `course_regp` WHERE `faculty`='Sciences' AND `dept` LIKE 'Chemistry%' AND `level`='800' and `semester` LIKE 'SECOND%' AND `session` LIKE '2021/2022%' 
+
+
+// selectinf from two tables where these a key
+SELECT * FROM `spgs_referees`, `spgs_basicinfo` WHERE spgs_referees.`regno` = spgs_basicinfo.`regno`; 
+
+
+//SQL query to find the salespeople and customers who live in the same city. Return customer name, salesperson name //and salesperson city
+SELECT customer.cust_name,
+salesman.name, salesman.city
+FROM salesman, customer
+WHERE salesman.city = customer.city;
+
+//write a search SQL query to find those salespeople who generated orders for their customers but are not located in the same city. Return ord_no, cust_name, customer_id (orders table), salesman_id (orders table). 
+SELECT ord_no, cust_name, orders.customer_id, orders.salesman_id
+
+
+Sample table: salesman
+
+salesman_id |    name    |   city   | commission 
+-------------+------------+----------+------------
+        5001 | James Hoog | New York |       0.15
+        5002 | Nail Knite | Paris    |       0.13
+        5005 | Pit Alex   | London   |       0.11
+        5006 | Mc Lyon    | Paris    |       0.14
+        5007 | Paul Adam  | Rome     |       0.13
+        5003 | Lauson Hen | San Jose |       0.12
+
+Sample table: customer
+
+customer_id |   cust_name    |    city    | grade | salesman_id 
+-------------+----------------+------------+-------+-------------
+        3002 | Nick Rimando   | New York   |   100 |        5001
+        3007 | Brad Davis     | New York   |   200 |        5001
+        3005 | Graham Zusi    | California |   200 |        5002
+        3008 | Julian Green   | London     |   300 |        5002
+        3004 | Fabian Johnson | Paris      |   300 |        5006
+        3009 | Geoff Cameron  | Berlin     |   100 |        5003
+        3003 | Jozy Altidor   | Moscow     |   200 |        5007
+        3001 | Brad Guzan     | London     |       |        5005
+
+Sample table: orders
+
+ord_no      purch_amt   ord_date    customer_id  salesman_id
+----------  ----------  ----------  -----------  -----------
+70001       150.5       2012-10-05  3005         5002
+70009       270.65      2012-09-10  3001         5005
+70002       65.26       2012-10-05  3002         5001
+70004       110.5       2012-08-17  3009         5003
+70007       948.5       2012-09-10  3005         5002
+70005       2400.6      2012-07-27  3007         5001
+70008       5760        2012-09-10  3002         5001
+70010       1983.43     2012-10-10  3004         5006
+70003       2480.4      2012-10-10  3009         5003
+70012       250.45      2012-06-27  3008         5002
+70011       75.29       2012-08-17  3003         5007
+70013       3045.6      2012-04-25  3002         5001
+
+FROM salesman, customer, orders
+WHERE customer.city <> salesman.city
+AND orders.customer_id = customer.customer_id
+AND orders.salesman_id = salesman.salesman_id;
+
